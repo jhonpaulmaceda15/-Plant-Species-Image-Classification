@@ -1,6 +1,7 @@
 # Plant-Species-Image-Classification
 
 ## Export the Model
+https://drive.google.com/drive/folders/1RHTmKWx0b7XGsVr3m1ggsDr1aFzGkqQC?usp=sharing
 
 ## A. Project Overview
 
@@ -129,12 +130,24 @@ Number of Images per Class: ___250______
 ### D. Model Evaluation
 ## 1. Confusion Matrix
 
-(Insert screenshot here)
+https://drive.google.com/open?id=1inzWdS6Aj4MYRFVMPRkahpCAzV0dHB8E&usp=drive_copy
 
 Shows how well the model distinguishes between different plant species.
 ## 2. Accuracy per Class
 
-(Insert screenshot here)
+https://drive.google.com/open?id=1KWsz1_wymrsMO4bzq_v7lLYgEY2Cm2w6&usp=drive_copy
+https://drive.google.com/open?id=1zyIVZqnM5AoX-5SzKntu-wNtME-7Hb8U&usp=drive_copy
+https://drive.google.com/open?id=1CUsTGUelmE_VSukXiJM4AK4ASwJRQLQi&usp=drive_copy
+https://drive.google.com/open?id=1ifotdqIMX_ycicSBmE16vfE6gQxk6Hu8&usp=drive_copy
+https://drive.google.com/open?id=1S0eD_3TmvslIiIJme3xJ-qBY_wLGSV06&usp=drive_copy
+https://drive.google.com/open?id=1LWUmDRO48uu_e7wEBGY8O7QebvItnR3H&usp=drive_copy
+https://drive.google.com/open?id=1IC2i_LxF-cTYIaWYgamwsEQ3ETsliVtx&usp=drive_copy
+https://drive.google.com/open?id=1eG9w8O_6Oaf2ZIapd8TZ4-daVo3xvfk9&usp=drive_copy
+https://drive.google.com/open?id=1uJWo6fB-dF5yI3DyP5KyLREJLer8actr&usp=drive_copy
+https://drive.google.com/open?id=1d8SdykcPblv7PooVLraqZubSeJVTIbQC&usp=drive_copy
+https://drive.google.com/open?id=1hwY6LDSAPdhfdatpOBffrN9MLosOeWIh&usp=drive_copy
+https://drive.google.com/open?id=1Any_BrZ30QE9Y6tsYYpT7rHXCfVN-YGl&usp=drive_copy
+https://drive.google.com/open?id=1dCokpH7QAwhMXX5U4EJD2fWERNjTT4lo&usp=drive_copy
 
 Displays how accurate the model is for each individual plant species.
 ## 3. Overall Model Accuracy
