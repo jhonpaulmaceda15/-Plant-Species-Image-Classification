@@ -1,5 +1,6 @@
 # Plant-Species-Image-Classification
 
+## Export the Model
 
 ## A. Project Overview
 
@@ -138,7 +139,7 @@ Shows how well the model distinguishes between different plant species.
 Displays how accurate the model is for each individual plant species.
 ## 3. Overall Model Accuracy
 
-(Insert screenshot here)
+https://drive.google.com/open?id=1jPqwnhAAQUIeU3YhOMKsW8WwMd6sPWde&usp=drive_copy
 
 Provides the total accuracy of the model across all classes.
 https://drive.google.com/drive/folders/1ZOD_qtYLYwuXhBNROY57byFMYc4NGYhA?usp=sharing
