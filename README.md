@@ -118,10 +118,10 @@ Description: A herbal plant commonly used in treating dengue and boosting platel
 
 ## Provide the configuration used during model training:
 
-Epochs: __________
-Batch Size: __________
-Learning Rate: __________
-Number of Images per Class: __________
+Epochs: _100_________
+Batch Size: ___16_______
+Learning Rate: _____0.001_____
+Number of Images per Class: ___250______
 
 (Optional: You may also include model type, e.g., CNN, MobileNet, etc.)
 
